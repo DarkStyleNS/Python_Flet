@@ -3,7 +3,7 @@
 <p>How do you install the flet?</p>
 <ul>
   <li>
-    For Widows:
+    For Windows:
     <ul>
       <li>
       Inistallation of the venv
