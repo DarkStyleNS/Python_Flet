@@ -56,7 +56,7 @@
     </ul>
     <ul>
       <li>
-        For Winows:
+        For Windows:
         <p>python "file of name" runserver</p>
       </li>
     </ul>
